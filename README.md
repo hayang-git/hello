@@ -1,0 +1,2 @@
+# hello
+golang package test
